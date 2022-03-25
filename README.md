@@ -1,6 +1,21 @@
 # qb-phone
   qb-phone nopixel inspired
 
+# Upcoming updates
+  V1.2 
+  
+   1.Fixed background
+  
+   2.Some icons are changed
+  
+   3.Apps re-styled
+  
+   4.Tz inspired look
+ 
+   V1.3 
+   
+   1.More phone settings working with qb-menu
+
 # Inventory image 
  We are add our inventory image look for this file \qb-phone\phone.png 
 
